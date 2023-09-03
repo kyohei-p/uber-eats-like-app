@@ -114,7 +114,7 @@ export const Foods = ({
             foods: data.foods
           }
         });
-      })
+      });
   }, []);
 
   return (
